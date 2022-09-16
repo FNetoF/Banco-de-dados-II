@@ -37,7 +37,13 @@ cenário que estamos trabalhando.
 
 <br/>
 
+## Banco de dados
 
+<br/>
+
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
 
 ## Autor
 
