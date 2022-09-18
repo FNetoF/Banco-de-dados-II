@@ -75,7 +75,7 @@ insert into funcionario(nome, endereco, telefone, cod_departamento) values ("Sic
 -- Atividade 3
 
 -- -----------------------------------------------------
--- Update - Table `Empresa`.`departamento`
+-- Update - Table `Empresa`.`funcionario`
 -- -----------------------------------------------------
 UPDATE
   funcionario
