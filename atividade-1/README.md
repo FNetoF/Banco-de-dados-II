@@ -3,31 +3,31 @@
 ## Sobre o Projeto
 
 1. Crie três tabelas:
-* Funcionario (codigo, nome, endereco,
-telefone, cod_departamento)
-- Departamento (codigo, descricao)
-* Dependentes (codigo, cod_funcionario, nome,
-data_nasc)
+    * Funcionario (codigo, nome, endereco,
+    telefone, cod_departamento)
+    - Departamento (codigo, descricao)
+    * Dependentes (codigo, cod_funcionario, nome,
+    data_nasc)
 
 2. Insert:
-* Insira 3 registros na tabela funcionário utilizando a primeira forma, exemplo:<br>
-Insert into table_name (column1, column2,
-column3) values (value1, value2, value3);
-- Insira 3 registros na tabela departamento utilizando a segunda forma, exemplo:<br>
-Insert into table_name values (value1, value2, value3), (value1, value2, value3).
+    * Insira 3 registros na tabela funcionário utilizando a primeira forma, exemplo:<br>
+    Insert into table_name (column1, column2,
+    column3) values (value1, value2, value3);
+    - Insira 3 registros na tabela departamento utilizando a segunda forma, exemplo:<br>
+    Insert into table_name values (value1, value2, value3), (value1, value2, value3).
 
 3. Update:
-* Atualize o nome de um dos funcionários;
-- Atualize o departamento de outro funcionário;
-* Atualize o endereço de outro funcionário;
-- Insira pelo menos um dependente para cada funcionário e depois altere a data de nascimento de todos.
+    * Atualize o nome de um dos funcionários;
+    - Atualize o departamento de outro funcionário;
+    * Atualize o endereço de outro funcionário;
+    - Insira pelo menos um dependente para cada funcionário e depois altere a data de nascimento de todos.
 
 4. Delete:
-* Delete 1 item de cada tabela.
+    * Delete 1 item de cada tabela.
 
 5. Select:
-* Faça alguns testes utilizando o select em cima do
-cenário que estamos trabalhando.
+    * Faça alguns testes utilizando o select em cima do
+    cenário que estamos trabalhando.
 
 ## Sistema Operacional
 
